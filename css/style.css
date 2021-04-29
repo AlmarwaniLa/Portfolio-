@@ -345,7 +345,7 @@ bottom: -2px;
 }
     #contact-form{
         width: 100%;
-        height: 70vh;
+        height: auto;  
         display: flex;
         justify-content: center;
         align-items: center;
