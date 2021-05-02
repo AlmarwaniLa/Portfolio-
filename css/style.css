@@ -501,6 +501,15 @@ nav ul{
     padding: 0px !important;
 */}
 }
+.active-menu{
+    display: block !important;
+}
+.p-b-container{
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    height: auto;
+    grid-gap: 10px
+}
     .c-l-heading{
         font-family: calibri;
         color:black ;
